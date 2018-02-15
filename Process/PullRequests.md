@@ -59,7 +59,7 @@ Below are some general guidelines on how merging should be handled regardless
 of the team. Team specific guidelines should go above and beyond those listed
 here.
 
-First, a PR should not be merged to dev/master any of the following apply:
+First, a PR should not be merged to dev/master if any of the following apply:
   * A broken build which typically means that unit and or integration tests are
     not passing.
   * Comments asking for clarification that have not been addressed.
